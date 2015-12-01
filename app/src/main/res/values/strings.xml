@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="wpisz_tekst">Wpisz jakiś tekst i naciśnij OK</string>
+    <string name="wpisz_tekst_hint">Wpisz jakiś tekst</string>
+    <string name="ok">OK</string>
+    <string name="wynik">Tutaj wyświetli się nowy tekst</string>
+</resources>
